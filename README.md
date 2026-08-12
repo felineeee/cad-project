@@ -1,4 +1,4 @@
-# FreeCAD 3D Modeling Series (27 Parts)
+# FreeCAD 3D Modeling Series
 
 A comprehensive CAD portfolio documenting a multi-part modeling progression—from fundamental sketch-based models to complex geometry—created using FreeCAD.
 
@@ -27,7 +27,7 @@ A comprehensive CAD portfolio documenting a multi-part modeling progression—fr
 
 | Tutorial 08 | Tutorial 09 | — |
 | :---: | :---: | :---: |
-| <img src="documentation/tutorial_8.png" width="220"> | <img src="documentation/tutorial_9.png" width="220"> | — |
+| <img src="documentation/tutorial_8.png" width="220"> | <img src="documentation/tutorial_9.png" width="220"> |
 
 ---
 
