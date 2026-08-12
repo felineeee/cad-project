@@ -25,8 +25,8 @@ A comprehensive CAD portfolio documenting a multi-part modeling progression—fr
 | :---: | :---: | :---: |
 | <img src="documentation/tutorial_5.png" width="220"> | <img src="documentation/tutorial_6.png" width="220"> | <img src="documentation/tutorial_7.png" width="220"> |
 
-| Tutorial 08 | Tutorial 09 | — |
-| :---: | :---: | :---: |
+| Tutorial 08 | Tutorial 09 |
+| :---: | :---: |
 | <img src="documentation/tutorial_8.png" width="220"> | <img src="documentation/tutorial_9.png" width="220"> |
 
 ---
